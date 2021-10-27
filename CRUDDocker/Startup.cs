@@ -67,7 +67,7 @@ namespace CRUDDocker
             });
 
             // Run DB migrationsn on app start
-            dataContext.Database.Migrate();
+            //dataContext.Database.Migrate();
         }
     }
 }

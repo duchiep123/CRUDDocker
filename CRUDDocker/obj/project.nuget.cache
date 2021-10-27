@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dArILyhfDqrjHaHDY+A9maPw5oXkdFsQmabVSlQ/IeqQYFDspKApzGuo/5mDwdLI/lSjjuGYLFkvSFR3+ArKpw==",
+  "dgSpecHash": "XX33aNRkWb8z7RZuVmKa1h80373itzENKXexYEOtoWbHTl9kx5MIyPFN8cmSuoPcbGwwcVBBZgbF70PzU63PJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mrhie\\source\\repos\\CRUDDocker\\CRUDDocker\\CRUDDocker.csproj",
+  "projectFilePath": "C:\\Users\\mrhie\\Downloads\\testdocker-project\\CRUDDocker\\CRUDDocker\\CRUDDocker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mrhie\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\mrhie\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

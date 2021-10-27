@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mrhie\\source\\repos\\CRUDDocker\\CRUDDocker\\CRUDDocker.csproj": {}
+    "C:\\Users\\mrhie\\Downloads\\testdocker-project\\CRUDDocker\\CRUDDocker\\CRUDDocker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mrhie\\source\\repos\\CRUDDocker\\CRUDDocker\\CRUDDocker.csproj": {
+    "C:\\Users\\mrhie\\Downloads\\testdocker-project\\CRUDDocker\\CRUDDocker\\CRUDDocker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mrhie\\source\\repos\\CRUDDocker\\CRUDDocker\\CRUDDocker.csproj",
+        "projectUniqueName": "C:\\Users\\mrhie\\Downloads\\testdocker-project\\CRUDDocker\\CRUDDocker\\CRUDDocker.csproj",
         "projectName": "CRUDDocker",
-        "projectPath": "C:\\Users\\mrhie\\source\\repos\\CRUDDocker\\CRUDDocker\\CRUDDocker.csproj",
+        "projectPath": "C:\\Users\\mrhie\\Downloads\\testdocker-project\\CRUDDocker\\CRUDDocker\\CRUDDocker.csproj",
         "packagesPath": "C:\\Users\\mrhie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mrhie\\source\\repos\\CRUDDocker\\CRUDDocker\\obj\\",
+        "outputPath": "C:\\Users\\mrhie\\Downloads\\testdocker-project\\CRUDDocker\\CRUDDocker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
