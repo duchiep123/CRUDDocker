@@ -1,0 +1,28 @@
+version: '3.4'
+
+networks:
+  my_network:
+    driver: bridge
+
+services:
+  cruddocker:
+    image: ${DOCKER_REGISTRY-}cruddocker
+    build:
+      context: .
+      dockerfile: CRUDDocker/Dockerfile
+    networks:
+      - my_network
+    depends_on:
+        - cars-database
+
+  cars-database:
+    container_name: postgres_cars_database
+    image: postgres:latest
+    networks:
+      - my_network
+    ports: 
+      - "5432:5432"
+    environment:
+      - POSTGRES_PASSWORD=Hiep1234567890
+    volumes:
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
