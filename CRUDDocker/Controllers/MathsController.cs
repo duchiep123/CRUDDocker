@@ -32,6 +32,8 @@ namespace CRUDDocker.Controllers
         public double Divide(double x1, double x2)
         {
             return _mathService.Divide(x1, x2);
+
+
         }
 
         [HttpPost]
